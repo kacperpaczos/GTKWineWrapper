@@ -1,0 +1,6 @@
+data/org.paczos.TestAppGTK4.desktop.in
+data/org.paczos.TestAppGTK4.appdata.xml.in
+data/org.paczos.TestAppGTK4.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
